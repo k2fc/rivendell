@@ -25207,3 +25207,5 @@
 	* Incremented the package version to v4.4.1int8.
 2026-08-26 Fred Gleason <fredg@paravelsystems.com>
 	* Incremented the package version to v4.5.0.
+2026-11-17 Dennis Graiani <dennis.graiani@gmail.com>
+	* Modified ImageMagick check to try Magick++-7 before Magick++-6.
