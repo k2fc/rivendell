@@ -25210,3 +25210,5 @@
 2026-11-17 Dennis Graiani <dennis.graiani@gmail.com>
 	* Replaced Qt WebKit with Qt WebEngine, if WebEngine is present,
 	or fall back to WebKit.
+2026-05-22 Dennis Graiani <dennis.graiani@gmail.com>
+	* Modified ImageMagick check to try Magick++-7 before Magick++-6.
